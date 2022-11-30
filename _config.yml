@@ -1,12 +1,5 @@
 name: "bj514's blog"
 description: "bj514的博客"
-avatar: https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
-# 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
-
-# Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
-# and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
-# it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: 首页
     url: /
